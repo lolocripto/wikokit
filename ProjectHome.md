@@ -1,0 +1,1 @@
+This project moved to GitHub. See [wikokit](https://github.com/componavt/wikokit).
